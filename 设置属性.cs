@@ -14,3 +14,6 @@ $("#hwep-buy-513686662").bind('click', function(){
 	ec.product.addPower(this,513686662,'【内部处理机】HUAWEI G9 Plus 移动定制版 3GB+32GB（月光银）',8);
 	return false;
 });
+
+
+一步一步教你安装openstack - jlins - 博客园
